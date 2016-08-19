@@ -1,2 +1,0 @@
-class Jellyfish < ApplicationRecord
-end
